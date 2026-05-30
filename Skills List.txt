@@ -1,0 +1,70 @@
+acceptance-orchestrator	
+accessibility-compliance-accessibility-audit	
+agent-manager-skill	
+agent-memory-mcp	
+agent-memory-systems	
+agent-orchestration-multi-agent-optimize	
+agent-orchestrator	
+agent-tool-builder	
+agent-tool-builder	E:\agent-toolbox\agent\skills\agent-tool-builder
+agentic-actions-auditor	E:\agent-toolbox\agent\skills\agentic-actions-auditor
+ai-agent-development	
+antigravity-design-expert	E:\agent-toolbox\agent\skills\antigravity-design-expert
+antigravity-skill-orchestrator	E:\agent-toolbox\agent\skills\antigravity-skill-orchestrator
+antigravity-workflows	E:\agent-toolbox\agent\skills\antigravity-workflows
+api-design-principles	
+app-builder	
+app-builder	E:\agent-toolbox\agent\skills\app-builder
+architecture	
+autonomous-agent-patterns	
+backend-architect	
+cloud-devops	
+code-reviewer	
+context-manager	
+database-architect	
+database-architect	
+deep-research	
+devops-troubleshooter	
+distributed-tracing	
+docker-expert	
+evaluation	
+gitops-workflow	
+incident-response-smart-fix	
+kubernetes-architect	
+langgraph	
+linux-troubleshooting	
+llm-app-patterns	
+llm-app-patterns	
+llm-evaluation	
+malware-analyst	
+mcp-builder	
+mcp-builder	E:\agent-toolbox\agent\skills\mcp-builder
+mcp-builder-ms	E:\agent-toolbox\agent\skills\mcp-builder-ms
+mcp-tool-developer	E:\agent-toolbox\agent\skills\mcp-tool-developer
+memory-safety-patterns	E:\agent-toolbox\agent\skills\memory-safety-patterns
+multi-agent-patterns	
+n8n-mcp-tools-expert	
+network-engineer	
+observability-engineer	
+observability-engineer	
+postgres-best-practices	
+product-manager	
+prompt-engineer	
+python-pro	
+rag-engineer	
+rag-engineer	
+react-nextjs-development	
+security-audit	
+senior-frontend	
+skill-audit	
+skill-improver	E:\agent-toolbox\agent\skills\skill-improver
+skill-router	
+systematic-debugging	
+terraform-specialist	
+testing-qa	
+threat-modeling-expert	
+typescript-pro	
+ui-ux-designer	
+voice-agents	
+web-performance-optimization	
+workflow-automation	
