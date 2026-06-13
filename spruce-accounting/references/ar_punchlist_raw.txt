@@ -1,0 +1,319 @@
+AccountNumber|CustomerName|Job|JobName|CreditBal|Owed|NetOwed
+-------------|------------|---|-------|---------|----|-------
+1000005|Hardin County Water|0|Hardin County Water|362.33|13714.22|13351.89
+1000008|Valley View Baptist|0|Valley View Baptist|.00|2490.23|2490.23
+1000010|Tim Sparks|0|Tim Sparks|.00|50.00|50.00
+1000011|Dalton Hahn|0|Dalton Hahn|.00|392.51|392.51
+10000111|Glenn Bieber|0|Glenn Bieber|1771.01|21298.90|19527.89
+10000111|Glenn Bieber|1|Church|.00|54.23|54.23
+10000111|Glenn Bieber|2|95 Badger Ct|.00|2.05|2.05
+1000012|John Romano|0|John Romano|.00|1084.18|1084.18
+1000013|Michael Romano|0|Michael Romano|25.76|3601.66|3575.90
+1000014|Nathaniel Logsdon|0|Nathaniel Logsdon|.00|142.82|142.82
+1000015|Rineyville Fire Department|0|Rineyville Fire Department|.00|2300.00|2300.00
+1000016|Ben Sheeran / Troy Fackler|0|Ben Sheeran / Troy Fackler|1300.93|7343.52|6042.59
+1000018|Donovan Smith|0|Donovan Smith|34.02|1137.61|1103.59
+1000019|Corey Ballard|0|Corey Ballard|.00|89447.72|89447.72
+1000020|Cheree Stallings|0|Cheree Stallings|23.32|878.50|855.18
+1000021|James Owen|0|James Owen|.00|321.81|321.81
+1000022|Michael Legrand|0|Michael Legrand|.00|3572.52|3572.52
+1000023|Daniel Winkle|0|Daniel Winkle|.00|158.20|158.20
+1000026|Knights Of Columbus|0|Knights Of Columbus|7.78|515.40|507.62
+1000027|Phill Keel|0|Phill Keel|493.22|8579.96|8086.74
+1000028|Diana Panola|0|Diana Panola|1216.15|12284.63|11068.48
+1000029|Victor Clouse|0|Victor Clouse|1900.08|16309.65|14409.57
+1000030|Elizabeth Yates|0|Elizabeth Yates|109.66|1104.39|994.73
+1000031|Corey Lucas|0|Corey Lucas|4.72|8003.81|7999.09
+1000032|USPS|0|USPS|.00|56.47|56.47
+1000033|Daniel Duvall|0|Daniel Duvall|12719.60|77697.02|64977.42
+1000034|Ron Cooper|0|Ron Cooper|40.27|3250.41|3210.14
+1000036|Leandro|0|Leandro|.00|42.92|42.92
+1000037|Noah Skaer|0|Noah Skaer|.00|21.23|21.23
+1000038|James D Riney|0|James D Riney|57.78|1971.40|1913.62
+1000038|James D Riney|1|Sharp|.00|575.58|575.58
+1000039|Scotty's Contracting & Stone|0|Scotty's Contracting & Stone|48.15|4990.98|4942.83
+1000040|Juan Perez|0|Juan Perez|347.42|801.46|454.04
+1000041|DBA Cristopher Squ Apartments|0|DBA Cristopher Squ Apartments|413.33|58089.76|57676.43
+1000042|Jim Banks|0|Jim Banks|.00|66292.03|66292.03
+1000043|TJ Heath|0|TJ Heath|625.65|10946.32|10320.67
+1000043|TJ Heath|1|TJ Heath|23375.76|23375.76|.00
+1000044|Ena Koellish|0|Ena Koellish|.00|201.17|201.17
+1000044|Ena Koellish|1|Mayberry|4634.31|71080.44|66446.13
+1000044|Ena Koellish|2|Mayberry-Interior install|.00|7927.28|7927.28
+1000044|Ena Koellish|3|Mayberry interior stair instal|.00|3395.25|3395.25
+1000044|Ena Koellish|4|Mayberry deck install|.00|1755.45|1755.45
+1000044|Ena Koellish|5|Mayberry front railing install|.00|9.24|9.24
+1000044|Ena Koellish|6|Tuscany|220.21|72359.44|72139.23
+1000044|Ena Koellish|7|Creek Vale|.00|68431.67|68431.67
+1000045|Phill Murrell|0|Phill Murrell|.00|1615.96|1615.96
+1000046|Durham's Properties LLC|0|Durham's Properties LLC|.00|1079.48|1079.48
+1000048|Yesh Singayao|0|Yesh Singayao|.00|1111.79|1111.79
+1000050|Shi Riis|0|Shi Riis|543.72|1471.34|927.62
+1000051|Theresa Shelton|0|Theresa Shelton|.00|1078.75|1078.75
+1000053|Ronnie Chelf|0|Ronnie Chelf|167.99|328.43|160.44
+1000054|Jim Howard|0|Jim Howard|53.66|182.28|128.62
+1000056|Bric and Celeste Pace|0|Bric and Celeste Pace|.00|10168.26|10168.26
+1000057|Jahaziel Singayao|0|Jahaziel Singayao|21.75|604.36|582.61
+1000058|Katelyn Odom|0|Katelyn Odom|.00|45.83|45.83
+1000059|Larry Phillips|0|Larry Phillips|591.21|16957.01|16365.80
+1000060|Ryan Day|0|Ryan Day|.00|4871.45|4871.45
+1000062|Forrest Hunter|0|Forrest Hunter|38.40|.00|-38.40
+1000063|Sara Odom|0|Sara Odom|.00|40.81|40.81
+1000067|Century|0|Century|44914.60|6037.83|-38876.77
+1000067|Century|111|Lot 111 Roanoke|29419.60|797.76|-28621.84
+1000067|Century|116|Lot 116 Essex|33663.06|37.10|-33625.96
+1000067|Century|237|Lot 237 Kingston|39387.99|.00|-39387.99
+1000067|Century|239|Lot 239 Granby|39170.14|.00|-39170.14
+1000067|Century|247|Lot 247 Kingston|38337.99|19.30|-38318.69
+1000067|Century|249|Lot 249 Granby|.00|1029.18|1029.18
+1000067|Century|260|Lot 260 Kingston|37400.00|18.35|-37381.65
+1000067|Century|261|Lot 261 Beaumont|25452.89|910.01|-24542.88
+1000068|North Hardin Christian School|0|North Hardin Christian School|.00|3440.09|3440.09
+1000068|North Hardin Christian School|1|Brown Street|.00|577.18|577.18
+1000069|Yasel Rivera|0|Yasel Rivera|.00|43.99|43.99
+1000070|Thomas Sabia|0|Thomas Sabia|.00|152.26|152.26
+1000071|Robbie Lee Dupin|0|Robbie Lee Dupin|123.79|4161.64|4037.85
+1000071|Robbie Lee Dupin|1|69 Diamond Court|.00|51513.87|51513.87
+1000072|M&M Home Construction|2|Maxine Rd|15.65|.00|-15.65
+1000077|Ben Sheeran|0|Ben Sheeran|890.99|38122.77|37231.78
+1000077|Ben Sheeran|2|Second Street|.00|394.14|394.14
+1000077|Ben Sheeran|3|Doe Run|.00|12.06|12.06
+1000077|Ben Sheeran|4|Ben Sheeran|.00|112.77|112.77
+1000077|Ben Sheeran|5|Trailer Park|.00|5057.05|5057.05
+1000077|Ben Sheeran|6|Ben Sheeran|.00|2146.87|2146.87
+1000077|Ben Sheeran|7|Dogwood|.00|4548.96|4548.96
+1000077|Ben Sheeran|8|Ben Sheeran|.00|1612.32|1612.32
+1000077|Ben Sheeran|9|Oakwood|.00|942.43|942.43
+1000077|Ben Sheeran|10|Town and Country|152.22|18448.62|18296.40
+1000077|Ben Sheeran|11|803|.00|120.25|120.25
+1000077|Ben Sheeran|12|Leitchfield 22|.00|946.65|946.65
+1000077|Ben Sheeran|13|Ben Sheeran|.00|168.70|168.70
+1000077|Ben Sheeran|14|Dogwood|.00|419.81|419.81
+1000077|Ben Sheeran|15|Ben Sheeran|.00|39.49|39.49
+1000078|Barry Goodin|0|Barry Goodin|.00|1041.30|1041.30
+1000078|Barry Goodin|2|Barry Goodin|231.00|1054.57|823.57
+1000080|Adam Giles|3|Blueberry point #2|677.31|.00|-677.31
+1000082|Anthony Barth|0|Anthony Barth|482.20|10653.96|10171.76
+1000083|BDF INC.|0|BDF INC.|812.97|14100.48|13287.51
+1000083|BDF INC.|1|Church Street|.00|3243.73|3243.73
+1000083|BDF INC.|2|Josh|.00|142.04|142.04
+1000086|Mike Eck|0|Mike Eck|.00|1220.31|1220.31
+1000087|Anthony Elliott|0|Anthony Elliott|.00|1038.44|1038.44
+1000088|Anthony Odom|0|Anthony Odom|.00|604.59|604.59
+1000088|Anthony Odom|2|Setser|.00|22810.33|22810.33
+1000088|Anthony Odom|3|Morley|.00|15354.04|15354.04
+1000089|Ben Swartzentruber|0|Ben Swartzentruber|.00|614.34|614.34
+1000089|Ben Swartzentruber|1|Leon Roof|.00|6.08|6.08
+1000091|Buck Wiedeman|0|Buck Wiedeman|.00|466.96|466.96
+1000091|Buck Wiedeman|1|Buck Wiedeman|.00|145051.80|145051.80
+1000091|Buck Wiedeman|2|Garage|.00|33991.30|33991.30
+1000092|Scotty Goodman|3|Scotty Goodman personal|.00|21106.44|21106.44
+1000095|CHRIS JOHN|0|CHRIS JOHN|.00|.02|.02
+1000096|Daniel Vuleta|0|Daniel Vuleta|6306.06|13560.11|7254.05
+1000097|Lester Miller|0|Lester Miller|.00|14.12|14.12
+1000097|Lester Miller|1|Lester Miller|1060000.00|1060001.00|1.00
+1000098|Darrel Eggemann|0|Darrel Eggemann|222.89|9320.20|9097.31
+1000099|David Thomas|0|David Thomas|514.42|10284.39|9769.97
+1000100|Elton Youart|0|Elton Youart|5030.39|67520.06|62489.67
+1000104|Durham Excavating Inc.|0|Durham Excavating Inc.|.00|37.42|37.42
+1000106|Edwards Custom Homes|16|Ammons|94.15|.00|-94.15
+1000108|Fox KHI|0|Fox KHI|.00|954.94|954.94
+1000108|Fox KHI|11|Jefferson Lot 319|.00|24014.92|24014.92
+1000108|Fox KHI|15|Jefferson Lot 310|.00|58.68|58.68
+1000108|Fox KHI|20|Harding Lot 425|.00|1154.91|1154.91
+1000108|Fox KHI|22|Fillmore Lot 316 (287)|.00|150.62|150.62
+1000108|Fox KHI|23|Washington Lot 305 (291)|.00|43789.31|43789.31
+1000108|Fox KHI|24|Adams Lot 307|.00|9897.04|9897.04
+1000108|Fox KHI|25|Lot 309 Taft|.00|455.96|455.96
+1000108|Fox KHI|26|Lot 314 Washinton (342)|.00|15514.28|15514.28
+1000108|Fox KHI|27|Lot 312 Taft|.00|223.17|223.17
+1000108|Fox KHI|28|Lot 395 Washinton (354)|.00|73.49|73.49
+1000109|Frank Boyd|0|Frank Boyd|1927.58|67891.87|65964.29
+1000111|Brandon Stivers|0|Brandon Stivers|108.31|266.04|157.73
+1000114|Hardin County Bldngs&Grnds|0|Hardin County Bldngs&Grnds|4.08|4.08|.00
+1000116|Hardin County Schools|0|Hardin County Schools|.00|71.17|71.17
+1000118|Hugo Arcos|0|Hugo Arcos|.00|85.16|85.16
+1000118|Hugo Arcos|5|Lake Rd|.00|197.23|197.23
+1000119|Tracy Helm|0|Tracy Helm|651.57|.00|-651.57
+1000123|Jeff Ritchie|0|Jeff Ritchie|23023.48|65924.86|42901.38
+1000124|Jeremy Murrell|0|Jeremy Murrell|.29|80.63|80.34
+1000125|Brantingham Builders|0|Brantingham Builders|4411.55|12578.81|8167.26
+1000128|Bud's Electric|0|Bud's Electric|72.44|2050.54|1978.10
+1000135|Rental Stop|0|Rental Stop|5958.07|74669.66|68711.59
+1000137|Greg Barr|0|Greg Barr|3525.36|47846.75|44321.39
+1000141|Joseph Burroughs|0|Joseph Burroughs|159.36|8472.84|8313.48
+1000142|John Potts|0|John Potts|6.03|5034.19|5028.16
+1000150|KSK Construction|30|Matney|.00|13953.96|13953.96
+1000150|KSK Construction|32|White Pine Doe Valley|.00|8382.49|8382.49
+1000150|KSK Construction|33|Oravec house|.00|9861.78|9861.78
+1000151|Dustin Ward|1|209 Reelfoot -Briarwood|1246.05|53287.18|52041.13
+1000152|Edward Straney|0|Edward Straney|.00|24.84|24.84
+1000154|Marty Smith|0|Marty Smith|905.33|12707.81|11802.48
+1000154|Marty Smith|1|204 Park Street|97.87|36346.70|36248.83
+1000154|Marty Smith|2|Marty Smith|27.36|38302.04|38274.68
+1000154|Marty Smith|3|Ranch Lot 33 Peck St|27.36|38912.60|38885.24
+1000155|Isaac Masden|0|Isaac Masden|371.83|72128.17|71756.34
+1000158|Mike & Sons Classic Siding INC|0|Mike & Sons Classic Siding INC|.00|154.90|154.90
+1000158|Mike & Sons Classic Siding INC|22|Presley|20202.50|1024.50|-19178.00
+1000159|Mike Basham|0|Mike Basham|.07|18.51|18.44
+1000162|Neal Basham|0|Neal Basham|.00|4.53|4.53
+1000163|North Hardin Softball Boosters|0|North Hardin Softball Boosters|.00|1357.43|1357.43
+1000165|Nick Rowe|0|Nick Rowe|133.72|2676.32|2542.60
+1000166|Paul Cecil|0|Paul Cecil|22.81|.00|-22.81
+1000169|RANDY PADGETT|0|RANDY PADGETT|.00|109.82|109.82
+1000170|Raymond George|0|Raymond George|5044.82|16463.24|11418.42
+1000172|Sam Gingerich|0|Sam Gingerich|.00|115.56|115.56
+1000173|Sheri Sheeran|0|Sheri Sheeran|.35|73.44|73.09
+1000175|Kevin Sheeran|0|Kevin Sheeran|.00|11.58|11.58
+1000175|Kevin Sheeran|8|Sunny Acres Lot 8|.00|23.57|23.57
+1000175|Kevin Sheeran|17|Sunny Acres Lot 17|.00|4.37|4.37
+1000176|Shy Heath|0|Shy Heath|.00|60093.33|60093.33
+1000178|Smitty's Mulch N More Inc.|0|Smitty's Mulch N More Inc.|.00|90.85|90.85
+1000179|Mark & Donna Skeeters|1|MARK & DONNA SKEETERS|.00|4.10|4.10
+1000181|Stanley Steemer|0|Stanley Steemer|.08|.00|-.08
+1000182|St. Brigid Catholic Church|0|St. Brigid Catholic Church|.00|448.04|448.04
+1000185|STEVE FEGETT|0|STEVE FEGETT|244.28|6353.08|6108.80
+1000191|Tim Lowman|0|Tim Lowman|.00|998.57|998.57
+1000191|Tim Lowman|6|ATM|.00|100.43|100.43
+1000191|Tim Lowman|7|Jeff Clark|.00|46.05|46.05
+1000191|Tim Lowman|9|Irvington|.00|254.20|254.20
+1000191|Tim Lowman|10|McGrew|.00|321.70|321.70
+1000191|Tim Lowman|11|Blackburn|.00|501.08|501.08
+1000191|Tim Lowman|13|TIM LOWMAN|.00|234.77|234.77
+1000191|Tim Lowman|16|Wiseman|.00|13839.09|13839.09
+1000191|Tim Lowman|17|Taylor Riggs|.00|35102.01|35102.01
+1000194|Trinity Construction|0|Trinity Construction|.00|62.21|62.21
+1000196|Tyler Townsend|0|Personal|.00|82.16|82.16
+1000197|Troy Fackler|0|Troy Fackler|.00|227.70|227.70
+1000198|Roger Vance|0|Roger Vance|.00|3.78|3.78
+1000199|City of Vine Grove|0|City of Vine Grove|554.08|70565.37|70011.29
+1000200|Vista Homes|0|Vista Homes|.00|227.40|227.40
+1000200|Vista Homes|8|Barn Roof Repair|.00|11.18|11.18
+1000200|Vista Homes|20|Lot 7 (2 Bdrm) Duplex|.00|7685.00|7685.00
+1000200|Vista Homes|21|Lot 17 (2 Bdrm) Duplex|.00|1215.00|1215.00
+1000200|Vista Homes|22|Lot 44 (2 Bdrm) Duplex|.00|1234.38|1234.38
+1000200|Vista Homes|24|Lot 38 Old Vineland|.00|4100.00|4100.00
+1000200|Vista Homes|25|Lot 96 Old Vineland|.00|6500.00|6500.00
+1000200|Vista Homes|37|Lot 37|.00|4200.00|4200.00
+1000200|Vista Homes|39|Lot 39 (3 Bdrm) Duplex|.00|917.44|917.44
+1000200|Vista Homes|42|Lot 42 (3 Bdrm) Duplex|.00|1099.86|1099.86
+1000200|Vista Homes|43|Lot 43 (3 Bdrm) Duplex|.00|976.75|976.75
+1000200|Vista Homes|51|Lot 18 (3 Bdrm) Duplex|.00|16966.22|16966.22
+1000200|Vista Homes|106|Duplexes rn from lot6|.00|27.73|27.73
+1000202|Isaac Young|0|Isaac Young|.00|545.57|545.57
+1000205|Jaiden Jenkins|0|Jaiden Jenkins|1.05|1942.24|1941.19
+1000208|DBA Platinum Service Pros|0|DBA Platinum Service Pros|2323.06|20953.87|18630.81
+1000211|Lee Ward Larry Jackson|0|Lee Ward Larry Jackson|855.97|229812.70|228956.73
+1000212|WATTS HOME CENTER|0|WATTS HOME CENTER|300.67|48579.17|48278.50
+1000213|Brandon Vowels|0|Brandon Vowels|.00|709.62|709.62
+1000214|Adrian Ray Survivor's Trust|0|Adrian Ray Survivor's Trust|65.44|5084.68|5019.24
+1000214|Adrian Ray Survivor's Trust|2|928 Sunset Drive|779.05|13394.00|12614.95
+1000216|Colt Pendleton|0|Colt Pendleton|.00|2.04|2.04
+1000217|Henry Yoder|0|Henry Yoder|.00|215.29|215.29
+1000218|Daniel Yoder|0|Daniel Yoder|.00|416.59|416.59
+1000221|David Yoder|0|David Yoder|.00|776.99|776.99
+1000222|River Stallings|0|River Stallings|.00|63.30|63.30
+1000226|Jesus Contreras|0|Jesus Contreras|.00|2060.07|2060.07
+1000227|Rick Taylor|1|Rick Taylor garage|.00|51782.77|51782.77
+1000228|Matthew Aaron Miller|0|Matthew Aaron Miller|.00|53.18|53.18
+1000229|Michael Schmader|0|Michael Schmader|2.84|1456.65|1453.81
+1000230|Les and Joann Radford|0|Les and Joann Radford|106.21|4122.85|4016.64
+1000232|Andrew Tanner|0|Andrew Tanner|.00|1633.52|1633.52
+1000233|Curtis Flanigan|0|Curtis Flanigan|.00|881.63|881.63
+1000236|TCH Construction LLC|0|TCH Construction LLC|.00|130135.66|130135.66
+1000238|Taylor Wood|1|Taylor Wood|1763.05|64465.89|62702.84
+1000240|Ashlann Flanigan|0|Ashlann Flanigan|29.67|204.32|174.65
+1000243|Joe Blackstone|0|Joe Blackstone|2930.07|38584.02|35653.95
+1000244|Mark Waddell|0|Mark Waddell|.00|1853.15|1853.15
+1000245|Brandon Heil|0|Brandon Heil|78.60|78.60|.00
+1000246|Daniel Gonzalez|0|Daniel Gonzalez|652.91|26229.53|25576.62
+1000248|David Ray|0|David Ray|.00|141170.71|141170.71
+1000251|Vince Heuser|2|Vince Heuser Shop|.00|1961.28|1961.28
+1000252|Ernest Waters|0|Ernest Waters|.00|901.74|901.74
+1000253|John Lucas|0|John Lucas|745.88|1774.31|1028.43
+1000253|John Lucas|1|John Lucas|.00|1581.53|1581.53
+1000254|Galen Unruh|0|Galen Unruh|1823.87|7732.20|5908.33
+1000255|Darren Kennedy|0|Darren Kennedy|.00|609.34|609.34
+1000256|Bill Hazelwood|0|Bill Hazelwood|6974.45|50913.13|43938.68
+1000257|Jonah Ayres|0|Jonah Ayres|13.08|3567.72|3554.64
+1000259|Marcus Stewart|0|Marcus Stewart|4.06|473.45|469.39
+1000260|Rickie Settle|0|Rickie Settle|20.13|1885.16|1865.03
+1000261|Brandon Ellis|0|Brandon Ellis|482.18|2246.06|1763.88
+1000262|Ricky Hulette|0|Ricky Hulette|.00|91.84|91.84
+1000263|Jashaun Curry|0|Jashaun Curry|.00|1010.88|1010.88
+1000264|Emily Hoter|0|Emily Hoter|.00|8.71|8.71
+1000265|Andrew Nunn|0|Andrew Nunn|.00|269.83|269.83
+1000267|Carlton Cole|0|Carlton Cole|796.12|4081.43|3285.31
+1000272|Mohammed Rabah|1|Sand Springs|.00|14000.00|14000.00
+1000274|Ann Wease|0|Ann Wease|1.86|235.91|234.05
+1000275|Eliseo Rodriguez|0|Eliseo Rodriguez|.00|37.85|37.85
+1000277|Noah Warren|0|Noah Warren|.00|24.84|24.84
+1000278|Cameron Warfield|0|Cameron Warfield|.00|123.35|123.35
+1000279|Andy Large|0|Andy Large|.00|39.89|39.89
+1000280|Kanani Smith|0|Kanani Smith|.00|6.93|6.93
+1000281|Dewayne Cox|0|Dewayne Cox|24.87|882.55|857.68
+1000281|Dewayne Cox|1|Jackson|.00|58909.91|58909.91
+1000282|Larkin Taylor|0|Larkin Taylor|.00|4.93|4.93
+1000283|Lu Yoder|0|Lu Yoder|23.94|1228.03|1204.09
+1000284|Do Not Use|0|Do Not Use|.00|24819.10|24819.10
+1000286|Jack Love|0|Jack Love|.00|1495.56|1495.56
+1000291|Matt Yoder|0|Matt Yoder|.00|47.21|47.21
+100041|Jim Cannady Construction|0|Jim Cannady Construction|1.08|.00|-1.08
+ALLNATIONS|All Nations Worship Ministries|0|All Nations Worship Ministries|625.45|7743.01|7117.56
+ANDYTANNER|Azell A Tanner|0|Azell A Tanner|343.67|3709.03|3365.36
+ANTHONYM|Anthony Mings|0|Anthony Mings|.00|380.79|380.79
+ARONP|ARON PLUMMER|0|ARON PLUMMER|331.86|2519.43|2187.57
+ART|Art Westover|8|Art Westover|.00|3120.78|3120.78
+ART|Art Westover|10|Art Westover|.00|1303.52|1303.52
+BILLYPOLLA|Billy Pollack|1|CEDAR RIDGE WHITE TAILS|.00|2073.55|2073.55
+BREEN|James Breen|1|Branger Duplex|.00|120761.24|120761.24
+BRYANBOR|Bryan Borders|0|Bryan Borders|.00|2736.43|2736.43
+CALEBMAT|Caleb Mattingly|0|Caleb Mattingly|.00|103.45|103.45
+CHARLIEREE|Charlie Reed|0|Charlie Reed|.00|1057.04|1057.04
+CLAYHAWKI|Clay Hawkins|0|Clay Hawkins|.00|115.27|115.27
+COCHRANR|RICHARD COCHRAN|0|RICHARD COCHRAN|.00|98.06|98.06
+CODYSMITH|Cody Smith|0|Cody Smith|.00|33.19|33.19
+CURTISW|Curtis Willoughby Construction|7|Rick Games job|96.51|.00|-96.51
+DANNYHUBER|Danny Huber|0|Danny Huber|24.37|20024.37|20000.00
+DAVID HALL|David Hall|0|David Hall|.00|38.59|38.59
+DAVIDHALL|David Hall|0|David Hall|.00|53.79|53.79
+GMDEVELOP|Lonnie Gardner|0|Lonnie Gardner|552.11|.00|-552.11
+HAYESTHOM|HAYES THOMAS|0|HAYES THOMAS|79.58|21019.78|20940.20
+HAYESTHOM|HAYES THOMAS|1|1024 Jessica Drive|1082.57|12124.58|11042.01
+HOWARD|HOWARD GATLIN|0|HOWARD GATLIN|.00|195.00|195.00
+ICON|Icon Engineering|0|Icon Engineering|1034.83|6406.85|5372.02
+JEWELHOMES|Jewel Homes LTD|0|Jewel Homes LTD|.00|3312.39|3312.39
+JEWELHOMES|Jewel Homes LTD|1|Mike and Delia Seligman|.00|2001.87|2001.87
+JIMMYJENK|Jimmy Jenkins|4|Lot 18 Build 1|.00|15295.03|15295.03
+JIMMYJENK|Jimmy Jenkins|5|Lot 17 Build 2|.00|33769.27|33769.27
+JOEP|Joe Pearman|0|Joe Pearman|.00|8298.31|8298.31
+JOEP|Joe Pearman|1|Joe's Son|499.87|8640.51|8140.64
+JOHNLOHDEN|JOHN LOHDEN|1|JOHN LOHDEN|1589.25|5476.23|3886.98
+JOHNSHACKL|John Shacklette|0|John Shacklette|.00|228320.89|228320.89
+JTR|James Roberts|1|Jims carwash|1000.31|61474.83|60474.52
+KATEC|Kate Cannon|0|Kate Cannon|104.60|2022.35|1917.75
+KELLYHAR|KELLY HARDIN|0|KELLY HARDIN|.00|3806.88|3806.88
+KHICONST|KHI Construction|0|KHI Construction|.00|370.84|370.84
+KHICONST|KHI Construction|3|KHI Construction|.00|640.47|640.47
+KHICONST|KHI Construction|5|KHI Construction|.00|10719.48|10719.48
+KHICONST|KHI Construction|6|KHI Construction|.00|92.32|92.32
+KHICONST|KHI Construction|7|KHI Construction|.00|464.79|464.79
+KHICONST|KHI Construction|8|KHI Construction|.00|10867.91|10867.91
+KHICONST|KHI Construction|10|KHI Construction|.00|5618.98|5618.98
+KHICONST|KHI Construction|11|Lot 39|.00|5385.04|5385.04
+KHICONST|KHI Construction|12|Lot 238 Vine land|.00|14811.01|14811.01
+KHICONST|KHI Construction|13|KHI Construction|.00|154.42|154.42
+KUHND|KUHNS CERAMIC TILE SERVICE|0|KUHNS CERAMIC TILE SERVICE|200.82|741.60|540.78
+LOWELL|Lowell Hanson|0|Lowell Hanson|.00|264.75|264.75
+MATTWEAVER|Matt Weaver|0|Matt Weaver|.00|3906.28|3906.28
+MAUPINCONS|Maupin Construction|0|Maupin Construction|.00|1216.97|1216.97
+MAUPINCONS|Maupin Construction|1|Maupin Construction|.00|21226.72|21226.72
+MICHAELING|Michael Ingram|0|Michael Ingram|1.05|2677.61|2676.56
+NATHANIELB|NATHANIEL BELL|0|NATHANIEL BELL|.00|81881.98|81881.98
+RANDYYORK|Randy York|0|Randy York|.00|9113.93|9113.93
+ROBERTDAVI|Robert Davis|0|Robert Davis|.00|964.60|964.60
+SSCHOEN|Scott Schoenbaechler|0|Scott Schoenbaechler|.00|101.47|101.47
+STEVENB|Steve Bush|0|Steve Bush|6426.54|33070.95|26644.41
+TIMMARTIN|TIM MARTIN|0|TIM MARTIN|3279.87|20646.40|17366.53
+TODD MCMA|Todd McMahan|0|Todd McMahan|.00|43882.50|43882.50
+ZACHHILL|Zachary Hill|0|Zachary Hill|.00|432.76|432.76

@@ -1,0 +1,136 @@
+JT|Seq|SysCategory|SysMapDescription|DC|GLAcct|GLDescription
+--|---|-----------|-----------------|--|------|-------------
+1|1|Billing|A/P Accrual Account|0|21300|A/P In Transit
+1|2|Billing|Accounts Payable|1|20200|Accounts Payable
+1|3|Disbursement|Accounts Payable|0|20200|Accounts Payable
+1|4|Disbursement|Discounts|1|59000|Purchase Discounts
+1|5|Disbursement|Cash/Checks|1|10400|Checking Account
+1|6|Billing|EDI/Receipt Discrepancy|0|51400|COGS - rounding/purchase variance
+1|7|Billing|InterCompany AP|1|81500|Spruce Mapping
+1|8|Billing|InterCompany AR|0|81500|Spruce Mapping
+1|9|Disbursement|Gain/Loss on Currency Exchange|0|81500|Spruce Mapping
+2|1|Payments|Cash/Checks|0|10300|Undeposited Funds
+2|2|Payments|Credit Payments|1|11100|Accounts Receivables
+2|3|CreditAdjust|Credit Adjustment|1|11100|Accounts Receivables
+2|4|CreditAdjust|Credit Adjustment Income|0|11150|AR Payment transfer
+2|5|DebitAdjust|Debit Adjustment|0|11100|Accounts Receivables
+2|6|DebitAdjust|Debit Adjustment Income|1|11150|AR Payment transfer
+2|7|Posting|Payments applied|0|11100|Accounts Receivables
+2|8|Posting|Adjustments applied|0|11100|Accounts Receivables
+2|9|Posting|Discounts applied|0|49000|Sales Discount
+2|10|Posting|Memos applied|0|11100|Accounts Receivables
+2|11|Posting|Charges paid|1|11100|Accounts Receivables
+2|12|Posting|Finance Charges paid|1|11100|Accounts Receivables
+2|13|FinanceCharg|A/R Finance Charges|0|11100|Accounts Receivables
+2|14|FinanceCharg|Finance Charge Income|1|71100|Finance Charges
+2|15|Rewards|Rewards Bonus/Expired|1|81500|Spruce Mapping
+2|16|Rewards|Adjusted Rewards|0|81500|Spruce Mapping
+2|17|Payments|ACH/EFT Payments|0|NULL|NULL
+3|1|AdjustPhysIn|Inventory Adjustment|0|13100|Inventory
+3|2|AdjustPhysIn|Shrinkage|1|51300|Inventory Shrinkage
+3|3|TransferOut|Inventory  |1|81500|Spruce Mapping
+3|4|TransferOut|Transfer Adders|1|81500|Spruce Mapping
+3|5|TransferOut|A/R Affiliate|0|81500|Spruce Mapping
+3|6|TransferIn|Inventory|0|81500|Spruce Mapping
+3|7|TransferIn|Transfer Adders|0|81500|Spruce Mapping
+3|8|TransferIn|A/P Affiliate|1|81500|Spruce Mapping
+3|9|CostCorrections|Cost of Sales - Sales|0|51100|Cost of Goods Sold
+3|10|CostCorrections|Inventory - Sales|1|13100|Inventory
+3|11|CostCorrections|Cost of Sales - Returns|1|51100|Cost of Goods Sold
+3|12|CostCorrections|Inventory - Returns|0|13100|Inventory
+3|13|AdjPhysInv|Use Sales Tax Payable|1|21450|Accrued Sales Tax
+3|14|AdjPhysInv|Use Sales Tax Expense|0|63800|Office Supplies
+3|15|Manufacturing|Finished Goods|0|13100|Inventory
+3|16|Manufacturing|Raw Materials|1|13100|Inventory
+3|17|Manufacturing|Adjustments|1|61650|Payroll- Dept #1
+4|1|Sales|Cash|0|10300|Undeposited Funds
+4|2|Sales|Checks|0|10300|Undeposited Funds
+4|3|Sales|Bank Cards|0|11300|Accounts Rec-Bankcards
+4|4|Sales|A/R Charges|0|11100|Accounts Receivables
+4|5|Sales|COD|0|11200|Accounts Rec.-COD'S
+4|6|Sales|Gift Cards|0|21400|Gift cards/certificates (In House)
+4|7|Sales|Deposits|0|21350|Customer Order deposits
+4|8|Sales|Coupons|0|21425|Coupons - Vendor reimbursed
+4|9|Sales|Cash Sales|1|41100|Cash Sales
+4|10|Sales|Charge Sales|1|41200|Charge Sales
+4|11|Sales|Adjustment Sales|1|41300|Other POS Income
+4|12|Sales|Cash Salestax|1|21450|Accrued Sales Tax
+4|13|Sales|Charge Salestax|1|21450|Accrued Sales Tax
+4|14|Sales|Cash Exempt Sales|1|41100|Cash Sales
+4|15|Sales|Charge Exempt Sales|1|41200|Charge Sales
+4|16|Sales|Cost of Sales|0|51100|Cost of Goods Sold
+4|17|Sales|Inventory|1|13100|Inventory
+4|18|Sales|Adjustment Cost|0|51100|Cost of Goods Sold
+4|19|Sales|Adjustments Payable|1|51100|Cost of Goods Sold
+4|20|Returns|Cash Returns|0|41100|Cash Sales
+4|21|Returns|Charge Returns|0|41200|Charge Sales
+4|22|Returns|Adjustment Returns|0|41300|Other POS Income
+4|23|Returns|Cash Salestax|0|21450|Accrued Sales Tax
+4|24|Returns|Charge Salestax|0|21450|Accrued Sales Tax
+4|25|Returns|Cash Exempt Returns|0|41100|Cash Sales
+4|26|Returns|Charge Exempt Returns|0|41200|Charge Sales
+4|27|Returns|Cash|1|10300|Undeposited Funds
+4|28|Returns|Refund Checks|1|10900|Refund Checks
+4|29|Returns|Bank Cards|1|11300|Accounts Rec-Bankcards
+4|30|Returns|A/R Credit Memos|1|11100|Accounts Receivables
+4|31|Returns|Inventory|0|13100|Inventory
+4|32|Returns|Cost of Sales|1|51100|Cost of Goods Sold
+4|33|Returns|Adjustments Payable|0|51100|Cost of Goods Sold
+4|34|Returns|Adjustment Cost|1|51100|Cost of Goods Sold
+4|35|MiscPayments|Cash|0|10300|Undeposited Funds
+4|36|MiscPayments|Checks|0|10300|Undeposited Funds
+4|37|MiscPayments|Bank Cards|0|11300|Accounts Rec-Bankcards
+4|38|MiscPayments|Gift Card|0|21400|Gift cards/certificates (In House)
+4|39|MiscPayments|Coupon|0|21425|Coupons - Vendor reimbursed
+4|40|MiscPayments|A/R Credit Payments|1|11100|Accounts Receivables
+4|41|MiscPayments|Order Deposits|1|21350|Customer Order deposits
+4|42|MiscPayments|COD Receivable|1|11200|Accounts Rec.-COD'S
+4|43|MiscPayments|Miscellaneous Payins|1|71300|Miscellaneous Income
+4|44|Payouts|Cash|1|10300|Undeposited Funds
+4|45|Payouts|Payout |0|81400|Miscellaneous Expense
+4|46|MiscPayments|Charge|0|11100|Accounts Receivables
+4|47|Payouts|Cash-Deposit Refund|1|10300|Undeposited Funds
+4|48|Payouts|Check-Deposit Refund|1|10300|Undeposited Funds
+4|49|Payouts|Bank Cards-Deposit Refund|1|11300|Accounts Rec-Bankcards
+4|50|Payouts|Gift Card-Deposit Refund|1|21400|Gift cards/certificates (In House)
+4|51|Payouts|Coupon-Deposit Refund|1|21425|Coupons - Vendor reimbursed
+4|52|Payouts|Charge-Deposit Refund|1|11100|Accounts Receivables
+4|53|Payouts|Order Deposits|0|21350|Customer Order deposits
+4|54|Payouts|Cash-Check Cashing|1|10300|Undeposited Funds
+4|55|Payouts|Check-Check Cashing|0|10300|Undeposited Funds
+4|56|Sales|Blue Tarp payment|0|81500|Spruce Mapping
+4|57|Returns|Blue Tarp|1|81500|Spruce Mapping
+4|58|MiscPayments|Blue Tarp payment|0|81500|Spruce Mapping
+4|59|Payouts|Blue Tarp-Deposit Refund|1|81500|Spruce Mapping
+4|60|Sales|AR - Implied Xfer Affiliate|1|81500|Spruce Mapping
+4|61|Sales|AP - Implied Xfer Affiliate|0|81500|Spruce Mapping
+4|62|Returns|Gift Cards|1|21400|Gift cards/certificates (In House)
+4|63|Direct Sales|A/R Charges|0|11100|Accounts Receivables
+4|64|Direct Sales|Deposits|0|21350|Customer Order deposits
+4|65|Direct Sales|Direct Sales Income|1|41400|Direct Sales
+4|66|Direct Sales|Direct Salestax|1|21450|Accrued Sales Tax
+4|67|Direct Sales|Direct Cost of Sales|0|51100|Cost of Goods Sold
+4|68|Direct Sales|Direct A/P Accruals|1|21325|AP Direct Accruals
+4|69|Direct Sales|Direct Adjustment Sales|1|41300|Other POS Income
+4|70|BlackHawk|Gift Card Liability|1|81500|Spruce Mapping
+4|71|BlackHawk|BlackHawk Receivables|0|81500|Spruce Mapping
+4|72|Remittance|Rounding|1|81500|Spruce Mapping
+4|73|Installed Sales|Real Property Tax Expense|0|81500|Spruce Mapping
+4|74|Installed Sales|Installed Sales Income|1|41200|Charge Sales
+4|75|Installed Sales|Installed Sales Cost of Sales|0|51100|Cost of Goods Sold
+4|76|Sales|Ace Instant Savings|0|81500|Spruce Mapping
+4|77|Direct Sales|Direct Rebates|0|81500|Spruce Mapping
+4|78|Sales|Rewards Earned|1|81500|Spruce Mapping
+4|79|Sales|Rewards Redeemed|0|81500|Spruce Mapping
+4|80|Returns|Rewards Earned Credited|0|81500|Spruce Mapping
+4|81|Returns|Rewards Credited|1|81500|Spruce Mapping
+4|82|MiscPayments|AR Payment Convenience Fee|1|NULL|NULL
+4|83|MiscPayments|ACH/EFT Payments|0|NULL|NULL
+4|84|Sales|ACH/EFT Payments|0|NULL|NULL
+4|85|Returns|ACH/EFT Payments|1|NULL|NULL
+4|86|Payouts|ACH/EFT Payments|1|NULL|NULL
+5|1|Purchases|Received Inventory|0|13100|Inventory
+5|2|Purchases|Received Adders|0|51200|Freight In
+5|3|Purchases|A/P Accrual Account|1|21300|A/P In Transit
+5|4|Purchases|Surplus - Not AP Billed|1|51400|COGS - rounding/purchase variance
+5|5|Purchases|Rebate Receivable|0|81500|Spruce Mapping

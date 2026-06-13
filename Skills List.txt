@@ -67,4 +67,6 @@ typescript-pro
 ui-ux-designer	
 voice-agents	
 web-performance-optimization	
-workflow-automation	
+workflow-automation	spruce-accounting - IntegriBilt Spruce ERP accounting ops: KY sales tax filing, GL mappings/system journals, A/R workout, manufacturing costing, UI driving via RemoteApp (added 2026-06-09)
+
+integribilt-infrastructure	IntegriBilt infra copilot: servers/IPs/roles, docker-compose source of truth, BWS secrets, MCP endpoints, naming conventions, monitoring, backups (reassembled 2026-06-13)

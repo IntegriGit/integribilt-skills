@@ -1,0 +1,16 @@
+Position,GLAcct,GLName,Notes
+Truss Builder,61660,Truss Labor,
+Wall Panel Builder,61661,Panel Shop Labor,
+Panel Shop,61661,Panel Shop Labor,
+Truck Driver,61671,Truck Driver Labor,
+Lumber Yard,61670,Yard Labor,
+Store Stocker 61680,61680,Store Labor,GL embedded in position name
+Sales Associate,61681,Contractor Sales Labor,review
+Product Specialist,61681,Contractor Sales Labor,review
+Designer,61683,Design Labor,
+Framer,61695,Offsite Labor,field install crews - review vs 61700
+Field Crew Foreman,61695,Offsite Labor,
+Floor Leader,61650,Payroll- Dept #1,review
+Supervisor,61650,Payroll- Dept #1,review
+COO,61650,Payroll- Dept #1,admin
+Data Specialist,61650,Payroll- Dept #1,admin
